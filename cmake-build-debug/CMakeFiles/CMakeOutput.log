@@ -1,0 +1,97 @@
+The system is: Windows - 10.0.19041 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Compilateur d'optimisation Microsoft (R) C/C++ version 19.24.28314 pour x86
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28314.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/Google Drive (jsantilariob.coursinsa@gmail.com)/4INFO/Traitement des Images et des Videos/ProjetDataImage/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Compilateur d'optimisation Microsoft (R) C/C++ version 19.24.28314 pour x86
+Copyright (C) Microsoft Corporation. Tous droits réservés.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.24.28314.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/Google Drive (jsantilariob.coursinsa@gmail.com)/4INFO/Traitement des Images et des Videos/ProjetDataImage/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Google Drive (jsantilariob.coursinsa@gmail.com)/4INFO/Traitement des Images et des Videos/ProjetDataImage/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_47285\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_47285.dir\build.make /nologo -L                  CMakeFiles\cmTC_47285.dir\build
+Building C object CMakeFiles/cmTC_47285.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\jsant\AppData\Local\Temp\nm4AEA.tmp
+testCCompiler.c
+Linking C executable cmTC_47285.exe
+	"D:\Program Files\JetBrains\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_47285.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_47285.dir\objects1.rsp @C:\Users\jsant\AppData\Local\Temp\nm4C14.tmp
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Google Drive (jsantilariob.coursinsa@gmail.com)/4INFO/Traitement des Images et des Videos/ProjetDataImage/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_47cb2\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_47cb2.dir\build.make /nologo -L                  CMakeFiles\cmTC_47cb2.dir\build
+Building C object CMakeFiles/cmTC_47cb2.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\jsant\AppData\Local\Temp\nm5625.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_47cb2.exe
+	"D:\Program Files\JetBrains\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_47cb2.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_47cb2.dir\objects1.rsp @C:\Users\jsant\AppData\Local\Temp\nm582A.tmp
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/Google Drive (jsantilariob.coursinsa@gmail.com)/4INFO/Traitement des Images et des Videos/ProjetDataImage/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_79193\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_79193.dir\build.make /nologo -L                  CMakeFiles\cmTC_79193.dir\build
+Building CXX object CMakeFiles/cmTC_79193.dir/testCXXCompiler.cxx.obj
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\jsant\AppData\Local\Temp\nm5FAA.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_79193.exe
+	"D:\Program Files\JetBrains\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_79193.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_79193.dir\objects1.rsp @C:\Users\jsant\AppData\Local\Temp\nm60B5.tmp
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/Google Drive (jsantilariob.coursinsa@gmail.com)/4INFO/Traitement des Images et des Videos/ProjetDataImage/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_082ba\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_082ba.dir\build.make /nologo -L                  CMakeFiles\cmTC_082ba.dir\build
+Building CXX object CMakeFiles/cmTC_082ba.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\jsant\AppData\Local\Temp\nm670D.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_082ba.exe
+	"D:\Program Files\JetBrains\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_082ba.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~3\2019\BUILDT~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_082ba.dir\objects1.rsp @C:\Users\jsant\AppData\Local\Temp\nm6818.tmp
+
+
+

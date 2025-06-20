@@ -1,0 +1,10 @@
+"D:\Program Files\JetBrains\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "D:\Google Drive (jsantilariob.coursinsa@gmail.com)\4INFO\Traitement des Images et des Videos\ProjetDataImage"
+CMake Error at cmake-modules/findOpenCV.cmake:294 (message):
+  The following required OpenCV components were not found:
+  core;ml;video;calib3d;contrib;features2d;flann;gpu;highgui;imgproc;objdetect;legacy
+Call Stack (most recent call first):
+  CMakeLists.txt:10 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/Google Drive (jsantilariob.coursinsa@gmail.com)/4INFO/Traitement des Images et des Videos/ProjetDataImage/cmake-build-debug/CMakeFiles/CMakeOutput.log".
